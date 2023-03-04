@@ -1,6 +1,13 @@
 # MeetingCalendarAssistant
 API to create a meeting assistant
 
+Additional Requirement- MySQL Database
+
+Edit the following properties in the application.properties:
+  -> database url
+  -> database username
+  -> database password
+
 Steps to run the API:
 
   1) Download the folder from github and open the folder in eclipse or any other java supporting IDE(Preffered is Eclipse)
